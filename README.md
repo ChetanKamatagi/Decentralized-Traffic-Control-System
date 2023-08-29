@@ -1,6 +1,6 @@
 # SIH-2022
 
-## Content : Distributed Traffic Control System 
+## Content : Decentralized Traffic Control System
 
 In this project we have used YOLO v5 (You Only Look Once) model, which is very smart model, can able to detect and classify LMVs (Light Motor Vehicle) and HMVs(Heavy Motor motor vehicle).
 
